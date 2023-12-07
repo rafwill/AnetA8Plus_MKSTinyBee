@@ -1182,7 +1182,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { -19, -49, -3 }    //rafa 3dtouch
+#define NOZZLE_TO_PROBE_OFFSET { -19, -49, -0.7 }    //rafa 3dtouch
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
